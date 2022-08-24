@@ -1,0 +1,24 @@
+1. WAP to add modify delete and view following information(also store data in file and fetch next time) vehicle information ,name,type,company name,capacity in cc, milage (C Programming + File Handling)
+
+2. WAP to add modify delete and view following information(also store data in file and fetch next time) 
+	Vehicle information: name, type, company name, capacity in cc, milage (CPP + File Handling)
+
+3. WAP to Display Shopping Information in the which the contents are Person_Name,Cloth_Type, Cloth_Size, Cloth _Color, using Class and Object Concept of C++ Programming)
+
+4. WAP to add modify delete and view following information(also store data in file and fetch next time)
+	Computer Details: Type - Desktop/Laptop,processor,RAM, harddisk, usb port count, hdmi port count, battery backup time
+	Purchase Details: person name, company name, mobile, contact person, email, mobile, Computer Details, date, quantity
+
+5. WAP to Insert the Information from the User and Display the Student Information in the Library using Multiple/ Multi-Level Inheritance Concept of C++ Programming. 
+	Book Information: Book_Name, Author_Name, Publication, Number of Copies 
+	Library Information: Name, Qualification, Experience,
+	Students Information: Student_Name, Department, Class, Division, Book
+	Issue Information: Book_issue, Book_details, Student Information
+
+6. Write a C++ program to calculate the area of triangle, rectangle and circle using function overloading. The program should be menu driven.
+
+7. Write a C++ program to calculate the area of triangle, rectangle and circle using Constructor overloading. The program should be menu driven.
+
+8. WAP to Implement the Operator Overloading Concept of C++ Programming to take the Information from the User and Display Er. First_Name and Last_Name
+
+9. Write a Program to Demonstrate Friend Function and Friend Class.
