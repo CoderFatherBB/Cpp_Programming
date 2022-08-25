@@ -1,3 +1,8 @@
+// WAP to add modify delete and view following information(also store data in file and fetch next time)
+//	Computer Details: Type - Desktop/Laptop,processor,RAM, harddisk, usb port count, hdmi port count, battery backup time
+//	Purchase Details: person name, company name, mobile, contact person, email, mobile, Computer Details, date, quantity
+
+
 #include <iostream>
 #include <conio.h>
 #include <string.h>
