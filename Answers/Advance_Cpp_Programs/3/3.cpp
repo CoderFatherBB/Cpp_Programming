@@ -1,3 +1,9 @@
+// WAP to Insert the Information from the User and Display the Student Information in the Library using Multiple/ Multi-Level Inheritance Concept of C++ Programming. 
+//	Book Information: Book_Name, Author_Name, Publication, Number of Copies 
+//	Library Information: Name, Qualification, Experience,
+//	Students Information: Student_Name, Department, Class, Division, Book
+//	Issue Information: Book_issue, Book_details, Student Information 
+
 #include <iostream>
 #include <conio.h>
 #include <string.h>
